@@ -1,4 +1,3 @@
-
 SELECT flight_no, departure, destination 
 FROM Flights 
 WHERE departure='London';
